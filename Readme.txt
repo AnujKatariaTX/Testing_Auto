@@ -6,4 +6,6 @@ Conlicts not resolved
 
 resolving conflicts
 
+Stashing is possible here
+
 
