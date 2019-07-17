@@ -6,6 +6,12 @@ Conlicts not resolved
 
 resolving conflicts
 
+Stashing is possible here
+
+Cherry Picking starting
+
+Cherry Picking Explained
+
 
 Stashing is possible here
 
