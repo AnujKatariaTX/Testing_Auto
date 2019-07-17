@@ -8,4 +8,6 @@ resolving conflicts
 
 Stashing is possible here
 
+Cherry Picking starting
+
 
